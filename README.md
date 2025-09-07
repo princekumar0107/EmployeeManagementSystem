@@ -1,8 +1,24 @@
-# React + Vite
+## 🛠️ Tech Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- ⚛️ React.js
+- 🎨 Tailwind CSS
 
-Currently, two official plugins are available:
+ ## 🧑‍💻 How to Use
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Clone the Repo
+
+```bash
+cd your-repo-name
+````
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
